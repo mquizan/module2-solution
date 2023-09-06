@@ -22,7 +22,7 @@
   }
 
   /*** Medium - Tablet ***/
-  @media (min-width: 950px) and (max-width: 1199px) {
+  @media (min-width: 768) and (max-width: 991) {
   .col-md-6, .col-md-12 {
     float: left;
   }
@@ -49,6 +49,7 @@ section{
     margin-left: auto;
     font-family: Roboto;
     color: black;
+    clear: left;
 }
 
 .menu-chicken{
@@ -57,7 +58,7 @@ section{
     padding: 5px 10px;
     background-color: bisque;
     border: solid 1px black;
-    width: 90px;
+    width: 100px;
     text-align: center;
     clear: both;
 }
@@ -68,7 +69,7 @@ section{
     padding: 5px 10px;
     background-color: orange;
     border: solid 1px black;
-    width: 90px;
+    width: 100px;
     text-align: center;
 }
 
@@ -78,6 +79,6 @@ section{
     padding: 5px 10px;
     background-color: green;
     border: solid 1px black;
-    width: 90px;
+    width: 100px;
     text-align: center;
 }
