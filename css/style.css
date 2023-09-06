@@ -44,27 +44,24 @@ section{
     border: 1px solid black;
     background-color: grey;
     width: 100%;
-    height: 150px;
+    height: 170px;
     margin-right: auto;
     margin-left: auto;
     font-family: Roboto;
     color: black;
-    clear: left;
+    font-size: 14px;
 }
 
 .menu-chicken{
-    position: relative;
     float: right;
     padding: 5px 10px;
     background-color: bisque;
     border: solid 1px black;
     width: 100px;
     text-align: center;
-    clear: both;
 }
 
 .menu-beef{
-    position: relative;
     float: right;
     padding: 5px 10px;
     background-color: orange;
@@ -74,7 +71,6 @@ section{
 }
 
 .menu-sushi{
-    position: relative;
     float: right;
     padding: 5px 10px;
     background-color: green;
