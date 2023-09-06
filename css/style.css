@@ -22,7 +22,7 @@
   }
 
   /*** Medium - Tablet ***/
-  @media (min-width: 768) and (max-width: 991) {
+  @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
   }
